@@ -6,8 +6,8 @@
 // @author       comicat
 // @match        https://colab.research.google.com/drive/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/comicat-hu/userscripts/master/google-colab-monospace-code-cell.js
-// @downloadURL  https://raw.githubusercontent.com/comicat-hu/userscripts/master/google-colab-monospace-code-cell.js
+// @updateURL    https://raw.githubusercontent.com/comicat-hu/userscripts/master/google-colab-monospace-code-cell.user.js
+// @downloadURL  https://raw.githubusercontent.com/comicat-hu/userscripts/master/google-colab-monospace-code-cell.user.js
 // ==/UserScript==
 
 (function() {
